@@ -65,7 +65,8 @@
 <p>
   <a href="https://www.upwork.com/freelancers/~014ee17cc1ffda0379"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Upwork&color=222222&logo=Upwork&logoColor=6FDA44&label="/></a>
   <a href="https://www.linkedin.com/in/reemadelsamak/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=222222&logo=LinkedIn&logoColor=0A66C2&label="/></a>
-  <a href="https://www.behance.net/reemadelsamak/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Behance&color=222222&logo=Behance&logoColor=1769FF&label="/></a>
+  <a href="https://www.dribbble.com/reemadelsamak/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Dribbble&color=222222&logo=Dribbble&logoColor=ea4c89&label="/></a>
+      <a href="https://www.behance.net/reemadelsamak/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Behance&color=222222&logo=Behance&logoColor=1769FF&label="/></a>
   <a href="https://www.facebook.com/reemadelsamak/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Facebook&color=222222&logo=Facebook&logoColor=1877F2&label="/></a>
   <a href="https://www.twitter.com/reemadelsamak/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=222222&logo=Twitter&logoColor=1DA1F2&label="/></a>
   <a href="https://api.whatsapp.com/send?phone=201060229001" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=WhatsApp&color=222222&logo=WhatsApp&logoColor=25D366&label="/></a>
