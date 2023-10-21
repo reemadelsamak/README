@@ -69,7 +69,6 @@
       <a href="https://www.behance.net/reemadelsamak/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Behance&color=222222&logo=Behance&logoColor=1769FF&label="/></a>
   <a href="https://www.facebook.com/reemadelsamak/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Facebook&color=222222&logo=Facebook&logoColor=1877F2&label="/></a>
   <a href="https://www.twitter.com/reemadelsamak/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=222222&logo=Twitter&logoColor=1DA1F2&label="/></a>
-  <a href="https://api.whatsapp.com/send?phone=201060229001" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=WhatsApp&color=222222&logo=WhatsApp&logoColor=25D366&label="/></a>
   <a href="mailto:reemadelsamak@gmail.com"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=222222&logo=Gmail&logoColor=EA4335&label="/></a>
 </p>
 <br>
