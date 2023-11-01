@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Reem Samak</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=UI+and+Frontend+Developer)](https://git.io/typing-svg)
 
 - Graduated from 9-Month Program at ITI, **Open Source Application Development Diploma**
 
