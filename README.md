@@ -57,9 +57,6 @@
 </p>
 <br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=reemadelsamak&theme=github_dark) 
-![](https://github-readme-stats.vercel.app/api?username=reemadelsamak&show_icons=true&theme=github_dark)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Connect+with+me)](https://git.io/typing-svg)
 
 <p>
